@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/n3k":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/n3k","hostpath":"/Users/nilltre/Sites/n3k","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/nilltre/Sites/n3k","disabled":false,"__vagrantfile":true}}}
