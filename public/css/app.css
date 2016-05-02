@@ -5887,10 +5887,23 @@ nav ul ul.sub-menu li a,
 #content #locations ul ul ul li {
   font: .8em Verdana; }
 
-#content #welcome {
+#content #column1 {
   padding: .5% 1%;
-  margin: 1% 0;
+  margin: 2% 0;
   /*width: 60%;*/ }
+
+#content #column2 {
+  margin: 2% 0;
+  padding: 0; }
+
+#content #welcome_portrait div {
+  padding: 0; }
+
+#content #column2 img {
+  width: 100%; }
+
+#content #column2 div {
+  padding-right: 0; }
 
 #content #locations ul {
   list-style-type: none; }
@@ -5989,7 +6002,7 @@ nav ul ul.sub-menu li a,
   font: 1.5em Verdana; }
 
 footer {
-  margin-top: .5em; }
+  margin-top: 0; }
 
 footer ul a:hover {
   text-decoration: none; }
